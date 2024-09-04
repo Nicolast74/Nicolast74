@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Nicolast74
-- 👀 I’m interested in chicken nugget
-- 🌱 I’m currently learning how to do things
-- 💞️ I’m looking to collaborate on things
+
 - 📫 How to reach me : IG @zawolf__
 
 <!---

@@ -1,11 +1,11 @@
 # Greetings, Traveler, I am Nicolas 👋
 
-![Dark Souls Bonfire](https://media.giphy.com/media/IgZpefBvfKASc/giphy.gif)
+![Dark Souls Bonfire](https://i.imgur.com/yKk1xqR.jpg)
 
 ### 👨‍💻 About Me
 As a cursed soul, I wander the endless realms of code, forging paths in the shadowy lands of web and software. My repositories, like forgotten tomes, hold the secrets of web portfolios, C# incantations, android constructs, and other arcane arts, as I tirelessly seek to transcend my mortal limits and grasp the true essence of creation.
 
-![Coding in the Abyss](https://media.giphy.com/media/jt0U8uB8zHozhDdYkh/giphy.gif)
+![Coding in the Abyss](https://i.imgur.com/1tLuwxT.jpg)
 
 ### 🌟 Skills
 - **Languages**: C++, Python, JavaScript, Dart, Kotlin
@@ -17,7 +17,7 @@ As a cursed soul, I wander the endless realms of code, forging paths in the shad
 - **[Web-Portofolio](https://github.com/Nicolast74/Web-Portofolio)**: A personal site forged from the depths.
 - **[Calculator App](https://github.com/Nicolast74/calculator-app)**: An arcane tool of calculation, crafted in C#.
 
-![Tireless Journey](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
+![Tireless Journey](https://i.imgur.com/FbN6PFr.jpg)
 
 ### 📫 Seek Me Out
 - **Email**: [nicolast.nicolast.74@gmail.com](mailto:nicolast.nicolast.74@gmail.com)
@@ -27,7 +27,7 @@ As a cursed soul, I wander the endless realms of code, forging paths in the shad
 ### 📈 GitHub Stats
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolast74&show_icons=true&theme=dark)
 
-![Victory Achieved](https://media.giphy.com/media/xT9IgpBtoC4I7usQ5a/giphy.gif)
+![Victory Achieved](https://i.imgur.com/Fzq26NB.jpg)
 
 ### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolast74&layout=compact&theme=dark)
@@ -37,4 +37,4 @@ As a cursed soul, I wander the endless realms of code, forging paths in the shad
 - Deepen my understanding of the dark arts of AI/ML.
 - Forge a full-stack application, from concept to completion.
 
-![Prepare for Battle](https://media.giphy.com/media/qYpupXJSoCW8zjW1pU/giphy.gif)
+![Prepare for Battle](https://i.imgur.com/z2PpYCB.jpg)

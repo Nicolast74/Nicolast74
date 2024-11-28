@@ -1,5 +1,5 @@
 # Greetings, Traveler, I am Nicolas 👋
-
+?theme=catppuccin_mocha
 ![Dark Souls Bonfire](https://i.imgur.com/onEev0E.gif)
 
 ### 👨‍💻 About Me
@@ -25,7 +25,7 @@ As a cursed soul, I wander the endless realms of code, forging paths in the shad
 - **Instagram**: [@zawolf__](https://www.instagram.com/zawolf__/)
 
 ### 📈 GitHub Stats
-![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolast74&show_icons=true&theme=dark)
+![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolast74&show_&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
 ![Victory Achieved](https://i.imgur.com/rLn0tIh.gif)
 

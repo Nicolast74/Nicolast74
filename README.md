@@ -50,20 +50,17 @@ I didn’t find meaning here either.
 
 ---
 TODO: find purpose
-![Nic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolast74&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolast74&layout=compact&theme=dracula)
-
 ---
-
+![Nic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolast74&show_icons=true&theme=dracula)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolast74&layout=compact&theme=dracula)
+---
 > 🩸 “Commit early, regret later.”
 ---
-
----
-
 ### 🩸 Personal Note
 > to **Veronica** —  
 > if you’re here again, please stop laughing in my head.  
 > the walls start staring back at me.  
 > and the code… the code keeps whispering your name.  
-
+---
 ✨ *somewhere between a dream and a segmentation fault.*

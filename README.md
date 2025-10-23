@@ -1,40 +1,21 @@
-# Greetings, Traveler, I am Nicolas 👋
-?theme=catppuccin_mocha
-![Dark Souls Bonfire](https://i.imgur.com/onEev0E.gif)
+# 🧠 Nicolas Tegar — debugging life since forever
 
-### 👨‍💻 About Me
-As a cursed soul, I wander the endless realms of code, forging paths in the shadowy lands of web and software. My repositories, like forgotten tomes, hold the secrets of web portfolios, C# incantations, android constructs, and other arcane arts, as I tirelessly seek to transcend my mortal limits and grasp the true essence of creation.
+> “I make random things on the internet. Sometimes they even work.”
 
-![Coding in the Abyss](https://i.imgur.com/mHbqOif.gif)
+🎓 Informatics student @ AMIKOM Yogyakarta  
+⚡ Currently building small tools and weird projects for fun (and sanity)  
+💬 I talk about code, chaos, and coffee  
+📂 Most of my repos are experiments that went too far  
 
-### 🌟 Skills
-- **Languages**: C++, Python, JavaScript, Dart, Kotlin
-- **Frameworks**: React, Node.js, Django, Flutter, Jetpack Compose
-- **Tools**: Git, Docker, VS Code
-- **Areas of Interest**: Algorithm design, software optimization, front-end design, and open-source contributions
+### 🚧 Current Project
+🧰 [Study Helper CLI](https://github.com/YOUR_USERNAME/study_helper_CLI)  
+CLI-based study assistant that keeps your learning history — and your breakdowns — organized.
 
-### 🚀 Current Projects
-- **[Web-Portofolio](https://github.com/Nicolast74/Web-Portofolio)**: A personal site forged from the depths.
-- **[Calculator App](https://github.com/Nicolast74/calculator-app)**: An arcane tool of calculation, crafted in C#.
+---
 
-![Tireless Journey](https://i.imgur.com/lUh1jPb.gif)
+![Nic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-### 📫 Seek Me Out
-- **Email**: [nicolast.nicolast.74@gmail.com](mailto:nicolast.nicolast.74@gmail.com)
-- **LinkedIn**: [Nicolas Tegar](https://www.linkedin.com/in/nicolas-tegar-57b8032ab/)
-- **Instagram**: [@zawolf__](https://www.instagram.com/zawolf__/)
+---
 
-### 📈 GitHub Stats
-![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolast74&show_&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-
-![Victory Achieved](https://i.imgur.com/rLn0tIh.gif)
-
-### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolast74&layout=compact&theme=dark)
-
-### 🎯 Ambitions for 2024
-- Contribute to the vast libraries of open-source knowledge.
-- Deepen my understanding of the dark arts of AI/ML.
-- Forge a full-stack application, from concept to completion.
-
-![Prepare for Battle](https://i.imgur.com/uozJw1V.gif)
+> 🩸 “Still learning. Still breaking things. Still alive.”

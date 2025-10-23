@@ -5,7 +5,7 @@
 🎓 Informatics student @ AMIKOM Yogyakarta  
 🧠 Specializes in turning caffeine into syntax errors  
 💀 Still waiting for AI to fix my spaghetti code  
-🐧 Arch user btw (yeah… that explains everything)
+🐧 Arch user btw (yeah… that explains everything)(not exactly an arch, i use cachyOS)
 
 ---
 

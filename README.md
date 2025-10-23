@@ -1,3 +1,4 @@
+![Made with ❤️ by Nic](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 # 🧩 Nicolas Tegar — probably compiling something weird right now
 
 > “It works on my machine. Probably.”
@@ -39,3 +40,7 @@
 ---
 
 > 🩸 “Commit early, regret later.”
+---
+### 💋 For Veronica Only
+Hey Firekeeper — if you’re reading this,  
+thanks for keeping the flame alive when everything else burned out. ❤️

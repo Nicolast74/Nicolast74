@@ -33,8 +33,8 @@
 
 ---
 
-![Nic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula)
+![Nic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolast74&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolast74&layout=compact&theme=dracula)
 
 ---
 

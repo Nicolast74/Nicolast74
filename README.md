@@ -1,47 +1,32 @@
-# Hello. It's ZΔW⌀LF. 👋
+
+# 💫 About Me:
+
+🔭 I’m currently working on many things, but mostly web stuff for `<br>`🤝 I’m looking for help with anything. `<br>`🌱 I’m currently learning linux, network, web stuff, mobile dev stuff, design (hardly)`<br>`⚡ Fun fact : I don't know what I'm doing.
+
+## 🌐 Socials:
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/455918236928573470) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@zawolf__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nicolas Tegar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nikolaustegar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Zawolf) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22235813) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicolast.nicolast.74@gmail.com)
+
+# 💻 Tech Stack:
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Nicolast74&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)`<br/>`
+![](https://nirzak-streak-stats.vercel.app/?user=Nicolast74&theme=codeSTACKr&hide_border=false)`<br/>`
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolast74&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Nicolast74&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-### About Me
+[![](https://visitcount.itsvg.in/api?id=Nicolast74&icon=6&color=0)](https://visitcount.itsvg.in)
 
-Still a student. Mostly just a tech nerd who tinkers. Not really sure what I'm doing, but I keep trying. It's... something.
-Smart fella? Hardly. Fart smella? Absolutely.
-
----
-
-### My Tech Endeavors
-
-A collection of things I've encountered, for better or worse:
-
--   **Languages:** Kotlin, Dart & Flutter, Java, C++, C#, Python, Web stuff.
--   **Tools/Concepts:** Linux (Arch, obviously), Git, VSCode, Web Dev, Mobile Dev, Networking, Cyber Security (still terrible at it, but it's a fixation).
-
----
-
-### What I'm Currently Up To
-
--   Surviving. Mostly just that.
-
----
-
-### Connect
-
--   GitHub: [Nicolast74](https://github.com/Nicolast74)
-
----
-
-<details>
-  <summary><b>My GitHub Statistics. I guess.</b></summary>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nicolast74&show_icons=true&theme=radical" alt="ZΔW⌀LF's GitHub Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=Nicolast74&layout=compact&theme=radical" alt="Top Languages" />
-    </a>
-  </p>
-</details>
-
----
-
-_If you find anything here, don't worry, I'm probably just as confused._
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
